@@ -16,6 +16,8 @@
     that will validate the credit card number and identify the card issuer, (VISA, AMEX or Mastercard)
     given rules for credit card numbers provided in the assignment, ie "All Visa numbers start with 4".
     
+   This program is written from scratch, no starter code was provided in the assignment.
+   
 **********************************/    
     //Valid Card numbers taken from exercise:
     
